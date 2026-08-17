@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/filtrae-logomarca.png" alt="FiltraÊ" width="220" />
+
 # FiltraÊ — Triagem inteligente de clientes via WhatsApp com IA
 
 **Case study de um SaaS B2B em produção, construído solo do zero: arquitetura, IA, tempo real e pagamentos.**
@@ -39,6 +41,12 @@ Transfere para o humano + resumo da conversa
 - **Painel em tempo real**: atendentes acompanham conversas, métricas e status da conexão do WhatsApp ao vivo, via WebSocket.
 - **Cobrança recorrente**: planos com checkout via PIX e cartão, integrado a um gateway de pagamentos brasileiro.
 - **Landing page própria** para aquisição de clientes, com formulário de contato e conteúdo institucional.
+
+<div align="center">
+
+<img src="assets/landing-full.png" alt="Landing page do FiltraÊ" width="700" />
+
+</div>
 
 ## Arquitetura
 
