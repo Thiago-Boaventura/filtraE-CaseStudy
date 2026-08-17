@@ -101,5 +101,3 @@ Projeto construído solo, do zero, incluindo:
 - Compliance (LGPD, dados de pagamento) é mais barato de tratar como restrição de arquitetura desde o início do que como retrofit depois que dado sensível já vazou para logs ou banco.
 
 ---
-
-> Screenshots do painel (dashboard, conversas, conexão do WhatsApp, configurações — modo claro e escuro) podem ser adicionados a este repositório antes da publicação, usando os prints já existentes do produto que não contenham dados de clientes reais.
